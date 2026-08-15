@@ -67,6 +67,16 @@ Hope Theory live site — services, case studies, and revenue assets deployed on
 
 ---
 
+### 🎮 viral-pet-nix
+Skill-based viral pet mini-game — dodge the timeline, collect hearts, evolve Nix. Built as a single HTML file with no dependencies.
+
+- **Stack:** Vanilla HTML/CSS/JS · Canvas · WebAudio
+- **Status:** v2.2 shipped — Timeline Dodge + care panel + progression
+- **Live:** https://viral-pet-nix.vercel.app
+- **Repo:** [FahadIbrahim93/viral-pet-nix](https://github.com/FahadIbrahim93/viral-pet-nix)
+
+---
+
 ### 🗂️ devjourney
 Source of truth for Hope Theory — systematized build notes, revenue assets, and professional workflow documentation.
 
