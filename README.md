@@ -25,6 +25,17 @@
 
 If you have a project that needs shipping, I’m open to discussing scope, timeline, and rate.
 
+## Recruiter checklist
+
+- [x] Available for remote roles
+- [x] Open to freelance / contract
+- [x] 20-30 hrs/week availability
+- [x] React 19 + TypeScript + Supabase stack
+- [x] WCAG 2.1 AA accessibility experience
+- [x] Production apps shipped: BugSmasher, RollON, JG Mart, Nix
+- [x] Tests: 754+ passing across projects
+- [x] Based in Dhaka, Bangladesh (UTC+6)
+
 ## Featured projects
 
 ### 🛡️ BugSmasher-HopeTheory
@@ -72,7 +83,7 @@ Skill-based viral pet mini-game — dodge the timeline, collect hearts, evolve N
 
 - **Stack:** Vanilla HTML/CSS/JS · Canvas · WebAudio
 - **Status:** v2.2 shipped — Timeline Dodge + care panel + progression
-- **Live:** https://viral-pet-nix.vercel.app
+- **Live:** https://fahadibrahim93.github.io/viral-pet-nix
 - **Repo:** [FahadIbrahim93/viral-pet-nix](https://github.com/FahadIbrahim93/viral-pet-nix)
 
 ---
