@@ -8,6 +8,14 @@
 - 📫 Reach me: **hopetheorybd@gmail.com**
 - 🐦 Twitter/X: [@hopetheory__](https://x.com/hopetheory__)
 
+## OpenCode Zen free models (confirmed)
+
+- `deepseek/deepseek-v4-flash:free`
+- `poolside/laguna-s-2.1:free`
+- `xiaomi/mimo-v2.5:free`
+- `nvidia/nemotron-3-ultra-550b-a55b:free`
+- `nvidia/nemotron-3.5-lightning:free`
+
 ## Featured repos
 
 - [devjourney](https://github.com/FahadIbrahim93/devjourney) — source of truth for Hope Theory
