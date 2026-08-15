@@ -18,6 +18,6 @@
 
 ## Currently
 
-- Open to freelance and remote roles
+- Open to freelance & remote roles
 - Shipping revenue assets and public-facing services
 - Based in Dhaka, Bangladesh (UTC+6)
