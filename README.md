@@ -33,16 +33,16 @@ If you have a project that needs shipping, I’m open to discussing scope, timel
 - [x] React 19 + TypeScript + Supabase stack
 - [x] WCAG 2.1 AA accessibility experience
 - [x] Production apps shipped: BugSmasher, RollON, JG Mart, Nix
-- [x] Tests: 754+ passing across projects
+- [x] Tests: 800+ passing across projects
 - [x] Based in Dhaka, Bangladesh (UTC+6)
 
 ## Featured projects
 
 ### 🛡️ BugSmasher-HopeTheory
-Accessible bug-squashing arcade game built with React 19, TypeScript, and Canvas 2D. Shipped with 507 passing tests and Phase 6 accessibility complete.
+Accessible bug-squashing arcade game built with React 19, TypeScript, and Canvas 2D. Shipped with 683 automated tests and Phase 6 accessibility complete.
 
 - **Stack:** TypeScript · React 19 · Tailwind · Vitest
-- **Quality:** 237+ tests, WCAG-aligned, CI green
+- **Quality:** 683 tests (651 Vitest + 32 Firebase), 79% coverage, CI green
 - **Live:** https://bugsmasher-hopetheory.vercel.app
 - **Repo:** [FahadIbrahim93/BugSmasher-HopeTheory](https://github.com/FahadIbrahim93/BugSmasher-HopeTheory)
 
@@ -52,7 +52,7 @@ Accessible bug-squashing arcade game built with React 19, TypeScript, and Canvas
 Production-ready e-commerce storefront with cart, checkout, admin dashboard, and config-driven branding. Built for real transactions, not portfolio demos.
 
 - **Stack:** React 19 · TypeScript · Tailwind · Zustand
-- **Quality:** 106 unit tests, 87% coverage, CI green
+- **Quality:** 117 tests (106 unit + 11 Playwright E2E), 87% coverage, CI green
 - **Live:** https://rollon-delta.vercel.app
 - **Repo:** [FahadIbrahim93/RollON-MVP-Final-V1](https://github.com/FahadIbrahim93/RollON-MVP-Final-V1)
 
