@@ -1,45 +1,39 @@
-# Hey, I’m Fahad Ibrahim
+# Hey, I'm Fahad Ibrahim
 
-**AI-assisted full-stack developer. I build and ship accessible web products.**
+**Full-Stack Developer who ships production apps in weeks, not months.**
 
 - 🔭 Building [Hope Theory](https://fahadibrahim93.github.io) — services, case studies, and freelance systems
 - 🛠 Tech: **React 19**, **TypeScript**, **Supabase**, **Tailwind**, **Vite**, **Python**
 - ♿ Focused on accessible products, clean static deploy, and revenue-first delivery
 - 📫 Reach me: **hopetheorybd@gmail.com**
 - 🐦 Twitter/X: [@hopetheory__](https://x.com/hopetheory__)
+- 💼 LinkedIn: [in/hopetheory-](https://linkedin.com/in/hopetheory-)
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadIbrahim93&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadIbrahim93&show_icons=true&theme=radical&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIbrahim93&layout=compact&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIbrahim93&layout=compact&theme=radical&count_private=true)
 
 </div>
 
-## What I’m looking for
+## What I bring
 
-- **Remote freelance / contract** full-stack or frontend work
-- **AI-assisted development** projects where quality and speed matter
-- **Accessible product builds** with real users/business impact
-- **Part-time or project-based** engagement, 20-30 hrs/week
+- **Speed without shortcuts** — AI-assisted workflow cuts shipping time ~60% while maintaining quality gates (lint → test → build → deploy)
+- **Production-grade quality** — 800+ automated tests, CI/CD pipelines, WCAG 2.1 AA accessibility
+- **Business thinking** — I build for revenue and real users, not portfolio demos. Every project has metrics, case studies, and iteration built in
+- **Full-stack ownership** — From React frontends to Supabase backends to deployment pipelines, I own the whole stack
 
-If you have a project that needs shipping, I’m open to discussing scope, timeline, and rate.
+## Currently
 
-## Recruiter checklist
-
-- [x] Available for remote roles
-- [x] Open to freelance / contract
-- [x] 20-30 hrs/week availability
-- [x] React 19 + TypeScript + Supabase stack
-- [x] WCAG 2.1 AA accessibility experience
-- [x] Production apps shipped: BugSmasher, RollON, JG Mart, Nix
-- [x] Tests: 800+ passing across projects
-- [x] Based in Dhaka, Bangladesh (UTC+6)
+- Open to freelance & remote full-stack roles
+- Shipping revenue assets and public-facing services
+- Based in Dhaka, Bangladesh (UTC+6) — comfortable across time zones
 
 ## Featured projects
 
 ### 🛡️ BugSmasher-HopeTheory
-Accessible bug-squashing arcade game built with React 19, TypeScript, and Canvas 2D. Shipped with 683 automated tests and Phase 6 accessibility complete.
+Arcade clicker-defense with server-authoritative leaderboards. Shipped with 683 automated tests in 2 weeks.
 
 - **Stack:** TypeScript · React 19 · Tailwind · Vitest
 - **Quality:** 683 tests (651 Vitest + 32 Firebase), 79% coverage, CI green
@@ -49,54 +43,78 @@ Accessible bug-squashing arcade game built with React 19, TypeScript, and Canvas
 ---
 
 ### 🛒 RollON-MVP-Final-V1
-Production-ready e-commerce storefront with cart, checkout, admin dashboard, and config-driven branding. Built for real transactions, not portfolio demos.
+Production e-commerce platform with cart, variants, checkout, and admin dashboard. 117 tests, 87% coverage.
 
 - **Stack:** React 19 · TypeScript · Tailwind · Zustand
-- **Quality:** 117 tests (106 unit + 11 Playwright E2E), 87% coverage, CI green
+- **Quality:** 117 tests (106 unit + 11 Playwright E2E), 87% coverage, CI green, WCAG 2.1 AA
 - **Live:** https://rollon-delta.vercel.app
 - **Repo:** [FahadIbrahim93/RollON-MVP-Final-V1](https://github.com/FahadIbrahim93/RollON-MVP-Final-V1)
 
 ---
 
-### 🛒 jgmart-hermes
-Hyperlocal grocery delivery PWA for Japan Garden City, Dhaka. WhatsApp-native ordering, Supabase backend, and a 51% margin business model.
+### 🛵 jgmart-hermes
+Hyperlocal grocery delivery PWA for 1,700 families. WhatsApp-native ordering, Supabase backend, 51% margin model.
 
 - **Stack:** HTML/CSS/JS PWA · Supabase · Python automation
-- **Status:** Pre-seed / pilot — 27 buildings, 4 clusters, 82 products
+- **Metrics:** 27 buildings, 4 clusters, 82 products, pre-seed pilot ready
 - **Live:** https://jg-mart.vercel.app
 - **Repo:** [FahadIbrahim93/jgmart-hermes](https://github.com/FahadIbrahim93/jgmart-hermes)
 
 ---
 
-### 🌐 FahadIbrahim93.github.io
-Hope Theory live site — services, case studies, and revenue assets deployed on GitHub Pages. Zero-dependency, fast, and accessible.
-
-- **Stack:** Static HTML/CSS/JS · GitHub Pages
-- **Quality:** Zero-dependency, fast, accessible
-- **Live:** https://fahadibrahim93.github.io
-- **Repo:** [FahadIbrahim93/FahadIbrahim93.github.io](https://github.com/FahadIbrahim93/FahadIbrahim93.github.io)
-
----
-
 ### 🎮 viral-pet-nix
-Skill-based viral pet mini-game — dodge the timeline, collect hearts, evolve Nix. Built as a single HTML file with no dependencies.
+Single-file viral mini-game with Canvas 2D and WebAudio. Zero dependencies, MIT licensed, v2.2 shipped.
 
-- **Stack:** Vanilla HTML/CSS/JS · Canvas · WebAudio
-- **Status:** v2.2 shipped — Timeline Dodge + care panel + progression
+- **Stack:** Vanilla HTML/CSS/JS · Canvas 2D · WebAudio
+- **Status:** v2.2 — Timeline Dodge + care panel + progression
 - **Live:** https://fahadibrahim93.github.io/viral-pet-nix
 - **Repo:** [FahadIbrahim93/viral-pet-nix](https://github.com/FahadIbrahim93/viral-pet-nix)
 
 ---
 
+### 🌐 FahadIbrahim93.github.io
+My live portfolio — premium redesign with bento grids, spinning counters, 3D tilt cards, and WebGL guardrails.
+
+- **Stack:** Static HTML/CSS/JS · GSAP · Lenis · GitHub Pages
+- **Quality:** Zero dependencies, fast, accessible, reduced-motion support
+- **Live:** https://fahadibrahim93.github.io
+- **Repo:** [FahadIbrahim93/FahadIbrahim93.github.io](https://github.com/FahadIbrahim93/FahadIbrahim93.github.io)
+
+---
+
 ### 🗂️ devjourney
-Source of truth for Hope Theory — systematized build notes, revenue assets, and professional workflow documentation.
+Source of truth for Hope Theory — systematized build notes, revenue assets, and professional workflow docs.
 
 - **Stack:** Markdown · Git · Static assets
 - **Purpose:** Operating system for my development practice
 - **Repo:** [FahadIbrahim93/devjourney](https://github.com/FahadIbrahim93/devjourney)
 
-## Currently
+## Pinned repos strategy
 
-- Open to freelance & remote roles
-- Shipping revenue assets and public-facing services
-- Based in Dhaka, Bangladesh (UTC+6)
+If you're scanning my GitHub, start here:
+
+| Repo | What it shows | Priority |
+|---|---|---|
+| [BugSmasher-HopeTheory](https://github.com/FahadIbrahim93/BugSmasher-HopeTheory) | Testing rigor, game dev, real-time systems | ⭐⭐⭐ |
+| [RollON-MVP-Final-V1](https://github.com/FahadIbrahim93/RollON-MVP-Final-V1) | E-commerce, CI/CD, accessibility, React 19 | ⭐⭐⭐ |
+| [jgmart-hermes](https://github.com/FahadIbrahim93/jgmart-hermes) | PWA, Supabase, business model, WhatsApp API | ⭐⭐⭐ |
+| [viral-pet-nix](https://github.com/FahadIbrahim93/viral-pet-nix) | Canvas, WebAudio, zero-dependency engineering | ⭐⭐ |
+| [FahadIbrahim93.github.io](https://github.com/FahadIbrahim93/FahadIbrahim93.github.io) | Design sense, animation, WebGL guardrails | ⭐⭐ |
+| [devjourney](https://github.com/FahadIbrahim93/devjourney) | Documentation, process, professional maturity | ⭐ |
+
+## Recruiter quick scan
+
+- ✅ Available for remote roles
+- ✅ Open to freelance / contract
+- ✅ 20-30 hrs/week availability
+- ✅ React 19 + TypeScript + Supabase stack
+- ✅ WCAG 2.1 AA accessibility experience
+- ✅ 800+ passing tests across projects
+- ✅ Production apps: BugSmasher, RollON, JG Mart, Nix
+- ✅ Based in Dhaka, Bangladesh (UTC+6)
+
+## Open source
+
+- Actively contributing to open-source projects
+- Open to collaborating on React, TypeScript, and accessibility tooling
+- [Open an issue](https://github.com/FahadIbrahim93/FahadIbrahim93/issues) if you have a project in mind
