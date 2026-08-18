@@ -72,8 +72,18 @@ Single-file viral mini-game with Canvas 2D and WebAudio. Zero dependencies, MIT 
 
 ---
 
+### 🎮 Insectiles
+Sci-fi survival roguelite with custom PixiJS 8 game engine. 5 insect classes, wave-based combat, GSAP transitions. Architecture walkthrough available on request.
+
+- **Stack:** PixiJS 8 · React 19 · TypeScript · GSAP
+- **Highlights:** Custom engine architecture, entity system, wave manager, React bridge
+- **Status:** Private repo — in development
+- **Case study:** [Read Case Study](https://fahadibrahim93.github.io/case-study-insectiles.html)
+
+---
+
 ### 🌐 FahadIbrahim93.github.io
-My live portfolio — premium redesign with bento grids, spinning counters, 3D tilt cards, and WebGL guardrails.
+My live portfolio — premium redesign with bento grids, spinning counters, 3D tilt cards, mesh-gradient hero, and WebGL guardrails.
 
 - **Stack:** Static HTML/CSS/JS · GSAP · Lenis · GitHub Pages
 - **Quality:** Zero dependencies, fast, accessible, reduced-motion support
@@ -88,6 +98,13 @@ Source of truth for Hope Theory — systematized build notes, revenue assets, an
 - **Stack:** Markdown · Git · Static assets
 - **Purpose:** Operating system for my development practice
 - **Repo:** [FahadIbrahim93/devjourney](https://github.com/FahadIbrahim93/devjourney)
+
+---
+
+### 🗺️ Journey
+Project timeline and roadmap — from first lines of code to production platforms, games, and ventures.
+
+- **Live:** https://fahadibrahim93.github.io/journey.html
 
 ## Pinned repos strategy
 
@@ -110,7 +127,9 @@ If you're scanning my GitHub, start here:
 - ✅ React 19 + TypeScript + Supabase stack
 - ✅ WCAG 2.1 AA accessibility experience
 - ✅ 800+ passing tests across projects
-- ✅ Production apps: BugSmasher, RollON, JG Mart, Nix
+- ✅ Production apps: BugSmasher, RollON, JG Mart, Nix, Insectiles
+- ✅ Case studies: 4 deep-dive case studies with metrics and architecture
+- ✅ Journey page: Project timeline showing progression and breadth
 - ✅ Based in Dhaka, Bangladesh (UTC+6)
 
 ## Open source
