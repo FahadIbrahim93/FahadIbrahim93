@@ -33,10 +33,10 @@
 ## Featured projects
 
 ### 🛡️ BugSmasher-HopeTheory
-Arcade clicker-defense with server-authoritative leaderboards. Shipped with 683 automated tests in 2 weeks.
+Arcade clicker-defense with server-authoritative leaderboards. Shipped with 678 automated tests in 2 weeks.
 
 - **Stack:** TypeScript · React 19 · Tailwind · Vitest
-- **Quality:** 683 tests (651 Vitest + 32 Firebase), 79% coverage, CI green
+- **Quality:** 678 tests (646 Vitest + 32 Firebase), 79% coverage, CI green
 - **Live:** https://bugsmasher-hopetheory.vercel.app
 - **Repo:** [FahadIbrahim93/BugSmasher-HopeTheory](https://github.com/FahadIbrahim93/BugSmasher-HopeTheory)
 
@@ -126,7 +126,7 @@ If you're scanning my GitHub, start here:
 - ✅ 20-30 hrs/week availability
 - ✅ React 19 + TypeScript + Supabase stack
 - ✅ WCAG 2.1 AA accessibility experience
-- ✅ 800+ passing tests across projects
+- ✅ 700+ passing tests across projects
 - ✅ Production apps: BugSmasher, RollON, JG Mart, Nix, Insectiles
 - ✅ Case studies: 4 deep-dive case studies with metrics and architecture
 - ✅ Journey page: Project timeline showing progression and breadth
