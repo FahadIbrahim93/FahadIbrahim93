@@ -50,6 +50,7 @@ Deep dives into architecture and engineering decisions:
 
 - 🌐 **Portfolio & Case Studies**: [fahadibrahim93.github.io](https://fahadibrahim93.github.io)
 - 📧 **Email**: hopetheorybd@gmail.com
+- 📄 **Resume**: [PDF Resume](https://fahadibrahim93.github.io/resume-pdf.html) • [Web Resume](https://fahadibrahim93.github.io/resume.html)
 - 🐦 **Twitter/X**: [@hopetheory__](https://x.com/hopetheory__)
 - 💼 **LinkedIn**: [in/hopetheory-](https://linkedin.com/in/hopetheory-)
 - 📍 **Location**: Dhaka, Bangladesh (UTC+6)
