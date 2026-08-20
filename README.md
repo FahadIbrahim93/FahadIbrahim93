@@ -15,6 +15,16 @@
 
 ---
 
+### 📝 Technical Writing
+
+Deep dives into architecture and engineering decisions:
+
+- **[Architecting BugSmasher: Zero-Dependency React Game Engines & 678 Automated Tests](https://fahadibrahim93.github.io/article-bugsmasher-architecture.html)** — Game loop architecture, canvas state management, and test strategy.
+- **[Config-Driven E-Commerce at Scale: The RollON Architecture](https://fahadibrahim93.github.io/article-rollon-ecommerce-architecture.html)** — TypeScript config systems, 95% coverage, checkout state machines.
+- **[Offline-First PWA Architecture in JG Mart: Zero Cloud Lock-In](https://fahadibrahim93.github.io/article-jgmart-offline-first.html)** — IndexedDB persistence, WhatsApp-native ordering, optimistic UI.
+
+---
+
 ### 🛠 Core Technical Stack
 
 - **Frontend**: React 19, TypeScript, Tailwind CSS, Vite, GSAP, Lenis, Framer Motion, WCAG 2.1 AA Accessibility
