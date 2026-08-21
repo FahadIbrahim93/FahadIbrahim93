@@ -23,6 +23,13 @@ Deep dives into architecture and engineering decisions:
 - **[Config-Driven E-Commerce at Scale: The RollON Architecture](https://fahadibrahim93.github.io/article-rollon-ecommerce-architecture.html)** — TypeScript config systems, 95% coverage, checkout state machines.
 - **[Offline-First PWA Architecture in JG Mart: Zero Cloud Lock-In](https://fahadibrahim93.github.io/article-jgmart-offline-first.html)** — IndexedDB persistence, WhatsApp-native ordering, optimistic UI.
 
+### ⚡ Performance & Quality
+
+- **Web Performance**: WebP-first images, non-blocking font loading, deferred JS, 50% image payload reduction
+- **Accessibility**: WCAG 2.1 AA compliant, ARIA labels, keyboard navigation, screen reader tested
+- **Core Web Vitals**: Optimized LCP, FID, CLS with responsive srcset and explicit image dimensions
+- **Testing**: 678 automated tests (Vitest + Firebase), 95% coverage on production apps
+
 ---
 
 ### 🛠 Core Technical Stack
