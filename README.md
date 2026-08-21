@@ -29,6 +29,23 @@ Deep dives into architecture and engineering decisions:
 - **Accessibility**: WCAG 2.1 AA compliant, ARIA labels, keyboard navigation, screen reader tested
 - **Core Web Vitals**: Optimized LCP, FID, CLS with responsive srcset and explicit image dimensions
 - **Testing**: 678 automated tests (Vitest + Firebase), 95% coverage on production apps
+- **Mobile-First**: Responsive design, touch-optimized, tested on iOS + Android
+- **PWA Ready**: Service worker, offline-first architecture, installable
+
+### 📱 Mobile & PWA
+
+- **Mobile Performance**: Optimized for 3G/4G networks, lazy loading, responsive images
+- **Touch UX**: Minimum 48x48px tap targets, mobile navigation, gesture support
+- **Offline Ready**: Service worker caching, IndexedDB persistence, offline-first design
+- **Installable**: PWA manifest, add-to-homescreen support
+
+### 🧪 Testing & Quality Assurance
+
+- **Automated Tests**: 678 unit tests, 95% coverage on production apps
+- **E2E Testing**: Playwright test suite for critical user flows
+- **Accessibility**: WCAG 2.1 AA compliant, tested with axe DevTools
+- **Performance Budgets**: < 500KB JS, < 500KB images, LCP < 2.5s
+- **Cross-Browser**: Chrome, Firefox, Safari, Edge tested
 
 ---
 
