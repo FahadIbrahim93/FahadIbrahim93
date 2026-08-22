@@ -49,6 +49,12 @@ Deep dives into architecture and engineering decisions:
 
 ---
 
+### 🌱 Open Source
+
+Contributing to agent frameworks and TypeScript ecosystems — currently working through vetted issues in [elizaOS/eliza](https://github.com/elizaOS/eliza) (AI agent runtime). I follow a strict reproduce → fix → test → verify workflow: every contribution ships with regression tests and a diff that matches its description.
+
+---
+
 ### 🛠 Core Technical Stack
 
 - **Frontend**: React 19, TypeScript, Tailwind CSS, Vite, GSAP, Lenis, Framer Motion, WCAG 2.1 AA Accessibility
