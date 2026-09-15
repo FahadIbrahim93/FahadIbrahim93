@@ -12,6 +12,7 @@ I ship React / TypeScript / Supabase products people can click — clear scope, 
 
 | Project | Stack | What it is | Links |
 | :--- | :--- | :--- | :--- |
+| **LearnWebDev-AI** | React 19, TypeScript, Tailwind v4, Convex, Stripe | Interactive course platform teaching non-technical people to build professional websites with AI. Catalog, Stripe checkout, 1:1 bookings, community showcase, admin analytics. Neobrutalism design system. | [Live](https://web-development-with-ai-indol.vercel.app) · [Repo](https://github.com/FahadIbrahim93/LearnWebDev-AI) |
 | **BugSmasher** | React 19, TypeScript, Canvas 2D, Firebase | Full-stack arcade clicker-defense (auth, XP, leaderboards). Live demo. **Not release-certified** — see [STATUS.md](https://github.com/FahadIbrahim93/BugSmasher-HopeTheory/blob/main/docs/STATUS.md). | [Play](https://bugsmasher-hopetheory.vercel.app) · [Repo](https://github.com/FahadIbrahim93/BugSmasher-HopeTheory) |
 | **RollON** | React 19, TypeScript, Tailwind, Zustand, Playwright | E-commerce storefront (catalog → cart → checkout + admin). **117 tests / 87% coverage**, CI green. | [Shop](https://rollon-delta.vercel.app) · [Repo](https://github.com/FahadIbrahim93/RollON-MVP-Final-V1) |
 | **JG Mart** | Vanilla JS PWA, Supabase | Hyperlocal grocery PWA for Japan Garden City, Dhaka (pilot target ~1,700-family complex — not proven usage). WhatsApp-native ordering + dispatch. | [Browse](https://jg-mart.vercel.app) · [Repo](https://github.com/FahadIbrahim93/jgmart-hermes) |
@@ -31,7 +32,7 @@ I ship React / TypeScript / Supabase products people can click — clear scope, 
 ### Stack I actually use
 
 - **Frontend:** React 19, TypeScript, Tailwind, Vite, vanilla HTML/JS, Canvas 2D
-- **Backend & data:** Node.js, Supabase, Firebase, REST, Zustand
+- **Backend & data:** Node.js, Supabase, Firebase, Convex, REST, Zustand
 - **Tests & ship:** Vitest, Playwright, GitHub Actions, Vercel, GitHub Pages
 
 ---
