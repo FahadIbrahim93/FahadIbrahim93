@@ -48,5 +48,5 @@ Ex-pro gamer and Head Admin of RGC Asia (148 online tournaments). Junior Develop
 - **Email:** [hopetheorybd@gmail.com](mailto:hopetheorybd@gmail.com)
 - **Resume:** [PDF](https://fahadibrahim93.github.io/resume-pdf.html) · [Web](https://fahadibrahim93.github.io/resume.html)
 - **LinkedIn:** [in/hopetheory-](https://linkedin.com/in/hopetheory-)
-- **X:** [@AgentHope__](https://x.com/AgentHope__)
+- **X:** [@HopeTheory__](https://x.com/HopeTheory__) (personal) · [@AgentHope__](https://x.com/AgentHope__) (my AI agent's build journal)
 - Dhaka, Bangladesh (UTC+6)
