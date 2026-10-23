@@ -1,10 +1,16 @@
 # Fahad Ibrahim
 
-**Full-Stack Developer · Hope Theory · Dhaka.** Open to remote.
-
-I ship React / TypeScript / Supabase products people can click — clear scope, real demos, honest status. Also open to reliable remote ops (shipping, support, keeping systems healthy).
+Developer in Dhaka. I build websites and AI agents, and automate the boring parts. Open to remote work.
 
 **Portfolio:** [fahadibrahim93.github.io](https://fahadibrahim93.github.io)
+
+### Hope Theory Labs
+
+I run [Hope Theory Labs](https://hopetheorylabs.vercel.app) with Tamim Abir. Today we build websites for small businesses; AI audits and forward-deployed AI engineering come next. The site is still in progress ([repo](https://github.com/FahadIbrahim93/hopetheorylabs-site)).
+
+### Background
+
+Ex-pro gamer and Head Admin of RGC Asia (148 online tournaments). Junior Developer at GreenTech BD, 2020–21. Mined and traded ETH. Now building AI agents.
 
 ---
 
@@ -17,7 +23,7 @@ I ship React / TypeScript / Supabase products people can click — clear scope, 
 | **RollON** | React 19, TypeScript, Tailwind, Zustand, Playwright | E-commerce storefront (catalog → cart → checkout + admin). **117 tests / 87% coverage**, CI green. | [Shop](https://rollon-delta.vercel.app) · [Repo](https://github.com/FahadIbrahim93/RollON-MVP-Final-V1) |
 | **JG Mart** | Vanilla JS PWA, Supabase | Hyperlocal grocery PWA for Japan Garden City, Dhaka (pilot target ~1,700-family complex — not proven usage). WhatsApp-native ordering + dispatch. | [Browse](https://jg-mart.vercel.app) · [Repo](https://github.com/FahadIbrahim93/jgmart-hermes) |
 | **Nix** | Vanilla HTML/JS, Canvas | Single-file viral mini-game — zero deps, MIT. Short skill sessions. | [Play](https://viral-pet-nix.vercel.app) · [Repo](https://github.com/FahadIbrahim93/viral-pet-nix) |
-| **Emberfall** | Vanilla HTML/JS, Canvas 2D, Web Audio | Single-file deep-range intercept shooter. Fully offline. | [Play](https://emberfall-game-two.vercel.app/) · [Repo](https://github.com/FahadIbrahim93/emberfall) |
+| **EMBERFALL** | Vanilla HTML/JS, Canvas 2D, Supabase | Free browser space shooter with a global leaderboard on Supabase. Works offline. | [Play](https://emberfall-game-two.vercel.app/) · [Repo](https://github.com/FahadIbrahim93/emberfall) |
 
 ---
 
@@ -39,11 +45,8 @@ I ship React / TypeScript / Supabase products people can click — clear scope, 
 
 ### Contact
 
-Dual-track: **full-stack product** and **remote ops**.
-
 - **Email:** [hopetheorybd@gmail.com](mailto:hopetheorybd@gmail.com)
-- **Portfolio:** [fahadibrahim93.github.io](https://fahadibrahim93.github.io)
 - **Resume:** [PDF](https://fahadibrahim93.github.io/resume-pdf.html) · [Web](https://fahadibrahim93.github.io/resume.html)
 - **LinkedIn:** [in/hopetheory-](https://linkedin.com/in/hopetheory-)
-- **X:** [@hopetheory__](https://x.com/hopetheory__)
-- **Location:** Dhaka, Bangladesh (UTC+6) · open to remote
+- **X:** [@AgentHope__](https://x.com/AgentHope__)
+- Dhaka, Bangladesh (UTC+6)
